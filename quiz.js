@@ -7,11 +7,11 @@ const questions = [
     { 
         id: 1, 
         block: 'ALGEBRA Y FUNCIONES', 
-        text: 'Si R es un razonamiento cuya estructura es \\((H1 \\land H2) \\rightarrow C\\), entonces R es válido si y solo si se cumple que:', 
+        text: 'Si R es un razonamiento cuya estructura es (H1 ʌ H2) → C, entonces R es válido si y solo si se cumple que:', 
         options: [
             'a) Las hipótesis H1 y H2 son formas proposicionales tautológicas.', 
             'b) La conclusión C es una forma proposicional tautológica.', 
-            'c) La estructura &nbsp;\\((H1 \\land H2) \\rightarrow C\\)&nbsp; es una forma proposicional tautológica.', 
+            'c) La estructura (H1 ʌ H2) → C; es una forma proposicional tautológica.', 
             'd) La forma proposicional asociada a R es una contradicción.'
         ], 
         answer: 'c' 
